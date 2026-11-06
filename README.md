@@ -1,5 +1,5 @@
 <img src="assets/icon.svg" width="64" height="64" alt="">
 
-# fire-tv-stick
+# mi-tv-stick
 
 Created in [T3 Code](https://t3.codes).
